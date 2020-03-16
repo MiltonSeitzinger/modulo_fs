@@ -1,0 +1,1 @@
+Escribiendo un archivo de texto de manera sincrónica con nodeJs
